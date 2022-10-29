@@ -19,5 +19,5 @@ Then choose file transport.sql.gz and click on go.
 
 Your Application is now ready to use.
 
-If you have any querry related to this project, feel free to ask me.
+If you have any querry related to this project, feel free to ask me or if you want full project report you can contact me.
 Contact Mail: ashwnaidwivedi9039@gmail.com
