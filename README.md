@@ -19,5 +19,12 @@ Then choose file transport.sql.gz and click on go.
 
 Your Application is now ready to use.
 
+![Login](https://user-images.githubusercontent.com/37068107/198829225-d798e9b9-72dc-4d58-92b8-3e2134522160.png)
+This is the main page of the Application. You can register new company by filling the required details. Then login with your username and password. 
+
+![Homepage](https://user-images.githubusercontent.com/37068107/198829168-eb6614ad-8a99-483d-9a05-6289069192cb.png)
+This is the home page. You can simply create new bill, register vehicle details, register driver details and perform operation like edit bill, print bill, delete bill. 
+
+
 If you have any querry related to this project, feel free to ask me or if you want full project report you can contact me.
 Contact Mail: ashwnaidwivedi9039@gmail.com
