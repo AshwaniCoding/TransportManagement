@@ -1,7 +1,7 @@
 # TransportManagement
 It is a Java Application which is implemented by Java Programming Language and Designed by Java Swing which can be used by Transportation Company to manage their Records and Works. The main objective of this application is to automate the complete operations of the goods transport office.
 
-It is designed by Ashwani Dwivedi and my team member Akash Gupta. 
+It is designed by me and my team member Akash Gupta. 
 
 In current system all work is getting done manually. User have to manage many things so it is very difficult to manage this business doing work manually. Using this system user can automate many transport operation like billing, tracking payments, creating report etc.
 
