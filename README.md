@@ -15,7 +15,7 @@ Then allow permission and complete the installation process.
 
 For both the methods you need to import database in your system. I recommend you to use Xampp server.
 Open Xampp server and Click on the import in the above.
-Then choose file transport.sql and click on go.
+Then choose file transport.sql.gz and click on go.
 
 Your Application is now ready to use.
 
